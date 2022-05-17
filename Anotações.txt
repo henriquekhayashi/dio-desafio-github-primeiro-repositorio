@@ -1,0 +1,3 @@
+Link para o download do git: https://git-scm.com/downloads
+
+Git para Windows fornece uma emulação BASH usada para executar Git a partir da linha de comando.
